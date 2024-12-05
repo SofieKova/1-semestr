@@ -1,0 +1,14 @@
+C:\Users\RobotComp.ru\source\repos\ConsoleApp54\bin\Debug\net8.0\ConsoleApp54.exe
+C:\Users\RobotComp.ru\source\repos\ConsoleApp54\bin\Debug\net8.0\ConsoleApp54.deps.json
+C:\Users\RobotComp.ru\source\repos\ConsoleApp54\bin\Debug\net8.0\ConsoleApp54.runtimeconfig.json
+C:\Users\RobotComp.ru\source\repos\ConsoleApp54\bin\Debug\net8.0\ConsoleApp54.dll
+C:\Users\RobotComp.ru\source\repos\ConsoleApp54\bin\Debug\net8.0\ConsoleApp54.pdb
+C:\Users\RobotComp.ru\source\repos\ConsoleApp54\obj\Debug\net8.0\ConsoleApp54.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RobotComp.ru\source\repos\ConsoleApp54\obj\Debug\net8.0\ConsoleApp54.AssemblyInfoInputs.cache
+C:\Users\RobotComp.ru\source\repos\ConsoleApp54\obj\Debug\net8.0\ConsoleApp54.AssemblyInfo.cs
+C:\Users\RobotComp.ru\source\repos\ConsoleApp54\obj\Debug\net8.0\ConsoleApp54.csproj.CoreCompileInputs.cache
+C:\Users\RobotComp.ru\source\repos\ConsoleApp54\obj\Debug\net8.0\ConsoleApp54.dll
+C:\Users\RobotComp.ru\source\repos\ConsoleApp54\obj\Debug\net8.0\refint\ConsoleApp54.dll
+C:\Users\RobotComp.ru\source\repos\ConsoleApp54\obj\Debug\net8.0\ConsoleApp54.pdb
+C:\Users\RobotComp.ru\source\repos\ConsoleApp54\obj\Debug\net8.0\ConsoleApp54.genruntimeconfig.cache
+C:\Users\RobotComp.ru\source\repos\ConsoleApp54\obj\Debug\net8.0\ref\ConsoleApp54.dll
